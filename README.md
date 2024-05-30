@@ -54,4 +54,4 @@ Make a change in your file and instantaneously see your updates!
 
 ## Screenshot
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./images/Screenshot.png)
